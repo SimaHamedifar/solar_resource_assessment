@@ -18,7 +18,7 @@ Main libraries used:
 	•	DEM and slope rasters (.tif)
 	•	Solar radiation data (.csv)
 	•	Transmission grid lines (.shp)
-	2.	Run the notebook solar_resource_assessment.ipynb step by step to:
+2.	Run the notebook solar_resource_assessment.ipynb step by step to:
 	•	Generate land cover suitability mask
 	•	Generate slope suitability mask
 	•	(Optional) Generate grid proximity mask
