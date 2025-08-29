@@ -18,6 +18,8 @@ Main libraries used:
  
 	•	scipy – for distance transform
 
+## Usage 
+
  1.	Place and analyze the input data in the data/ folder using DataCollection.ipynb and Data_Exploration_Visualization.ipynb:
 
 	•	Land cover raster (.tif)
