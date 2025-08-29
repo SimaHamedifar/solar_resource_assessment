@@ -1,6 +1,6 @@
 # Ottawa Solar Resource Assessment
 
-This project performs a **solar site suitability analysis** for the Ottawa region. It combines **land cover**, **slope**, and optionally **distance to transmission lines** to generate a final suitability mask for solar installations.
+This project performs a **solar site suitability analysis** for the Ottawa region. It combines **land cover**, **slope**, and **distance to transmission lines** to generate a final suitability mask for solar installations.
 
 ## Requirements
 
