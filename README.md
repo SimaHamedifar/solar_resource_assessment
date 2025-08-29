@@ -40,5 +40,5 @@ Main libraries used:
 
 	•	Combine masks into a final suitability raster
 
-  3. Forecast the Global Horizontal Irradiation (GI) in Ottawa region in GHI_Forecast.ipynb.
-  4. Forecast PV yield estimation in Ottawa region using PV_Yield_Estination_PVGIS.ipynb.
+  3. Forecast the Global Horizontal Irradiation (GHI) in Ottawa region in GHI_Forecast.ipynb.
+  4. Forecast PV yield estimation in Ottawa region using PVGIS in PV_Yield_Estination_PVGIS.ipynb.
